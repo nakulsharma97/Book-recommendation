@@ -164,8 +164,8 @@ Cosine Similarity       User-Item Matrix         Rating Prediction
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/NumiKun/Book-Recommendation-System.git
-cd Book-Recommendation-System
+git clone https://github.com/nakulsharma97/Book-recommendation.git
+cd Book-recommendation
 ```
 
 ### 2. Install dependencies
@@ -250,6 +250,15 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
+## Author
+
+**Nakul Sharma**
+
+- GitHub: [@nakulsharma97](https://github.com/nakulsharma97)
+- Repository: [Book-recommendation](https://github.com/nakulsharma97/Book-recommendation)
+
+---
+
 <div align="center">
-Made by <a href="https://github.com/NumiKun">NumiKun</a>
+Made by <a href="https://github.com/nakulsharma97">Nakul Sharma</a>
 </div>
